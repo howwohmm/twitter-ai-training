@@ -1,0 +1,10 @@
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+models/
+generated/
+data/*.json
+data/*.csv

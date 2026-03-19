@@ -1,0 +1,61 @@
+# Paste your collected viral tweets here
+# Format:
+#
+# Tweet 1 full text here
+#
+# ---
+#
+# Tweet 2 full text here
+#
+# ---
+
+I spent 3 years learning AI.
+
+Here are 10 things I wish I knew earlier:
+
+1. Start small - you don't need a PhD
+2. Build projects, not just courses
+3. Focus on one framework first (PyTorch OR TensorFlow)
+4. Read papers AFTER you understand basics
+5. Community > Solo learning
+6. Deploy early, even if it's bad
+7. GPU isn't required to start
+8. Math comes easier with practical context
+9. Imposter syndrome never goes away
+10. Just ship something
+
+The best time to start was yesterday. The second best is now.
+
+---
+
+Most people use ChatGPT wrong.
+
+Here's how to 10x your outputs:
+
+The problem: Generic prompts = generic results
+
+The solution: Context stacking
+
+Here's the framework:
+
+1. Give it a role
+"You are a senior marketing strategist with 10 years experience"
+
+2. Define the outcome
+"Create a viral Twitter thread that will get 1000+ likes"
+
+3. Provide examples
+"Like this: [paste example]"
+
+4. Add constraints
+"280 characters max per tweet, 10 tweets total"
+
+5. Iterate
+Ask for 5 variations, pick the best
+
+This simple shift 10x'd my AI usage.
+
+Try it.
+
+---
+

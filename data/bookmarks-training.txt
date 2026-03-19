@@ -1,0 +1,1851 @@
+You could post on LinkedIn for 90 days straight and have executives reaching out to work with you if you just did this:
+
+- Post 5-7x per week with a mix of top, middle, and bottom funnel content
+- Every hook under 3 lines with a specific outcome attached to it
+- 2-3 lead magnets per week with a manual DM system behind each one
+- Hit on your ICP's exact pain points from real sales calls not made up problems
+- Post case studies with clear solutions to problems
+- Reply to every comment within 30 minutes so the algorithm keeps pushing it
+
+Works exceptionally well if you combine ads or outbound with it.
+
+---
+
+SERVICE-AS-A-SOFTWARE. That is the real opportunity for 90% of us. 
+
+I keep watching smart people pour months into building beautiful UI applications that Anthropic and OpenAI are going to absorb in a single product update.
+
+It will feel ARCHAIC in two years that we used to click through user interfaces to navigate databases and complete tasks. Agents just do it. One prompt. Done.
+
+90% of the entire application layer is going to get eaten over the next decade. The dashboards. The forms. The CRUD. All of it.
+
+Where does that leave you?
+
+Exactly where the money is.
+
+Service-as-a-software.
+
+E.g. An ad agency that bakes its winning playbooks into AI systems and serves 1,000 clients with the quality they used to give 10.
+
+An IP law firm that encodes decades of expertise into AI skill files and sells legal services at infinite scale with near-zero marginal cost.
+
+A consulting firm. An accounting practice. A creative studio. Pick your vertical.
+
+The backend is AI. The frontend is your expertise packaged as a service. The moat is that YOU actually know what good looks like in your domain.
+
+You're not competing with OpenAI. You're competing with other service providers who are still doing everything manually.
+
+That's not a hard fight to win.
+
+Encode your knowledge. Automate your delivery. Sell the service. Scale infinitely.
+
+The technology gets commoditized. The person who knows how to USE it doesn't.
+
+---
+
+🚨BREAKING: Someone just dropped the ultimate startup toolkit for free.
+
+It's called Founders Kit and it has every resource a founder needs to go from idea to IPO.
+
+Paul Graham essays. YC courses. Pitch deck examples. Fundraising guides. 200+ tools across design, analytics, automation, and marketing.
+
+No paywall. No newsletter gate. No BS.
+
+100% Open Source.
+
+If you want details please do 
+Like+
+Comment "Send"+
+Repost+
+
+---
+
+we’re launching the easiest source of capital for talented people.
+
+10 minute application for $100K.
+
+No equity or expectations. Show us what you built or discovered!
+
+---
+
+Top 20 GLOBAL Startup Programs
+
+bookmark this RIGHT NOW !
+
+> @theresidency - cofounding + demo environments
+> @zfellows - community of top young builders
+> @fdotinc - sprint programs in SF
+> @ycombinator Startup School - free elite curriculum
+> @vercinyc - creative + tech collective in NYC
+> @hf0residency - hacker house for technical founders ($500k)
+> @techstars - 50+ programs worldwide, $220k
+> @antlerglobal - no idea needed, they help you find one
+> @pioneerdotapp - remote, pre-YC, perfect for intl founders
+> @sequoia Arc - company design with Sequoia partners ($1M)
+> @southpkcommons - community of builders, -1 to 0 stage
+> @500global - $150k, 6%, global presence
+> @pearvc PearX - 12 weeks, up to $2M, 90% raise follow-on
+> @launchhouse - operator-led, fast community
+> @angelpad - ranked #1 US accelerator, 15 startups/cohort
+> @betaworks - AI + deep tech camps, $500k
+> @masschallenge - equity-free, impact-focused
+> @startupschool - free, no application needed
+> @entrepeneursfirst - get in before you even have an idea
+> @berkeleyskydeck - $200k, university-backed
+
+---
+
+a very fun list of questions to ask yourself 
+
+h/t @benkuhn
+
+---
+
+kind of surreal -- 8 hours after posting this article, 3 @evm_capital grantees and 1 from @localhosthq got into Y Combinator.
+
+---
+
+4 s-tier websites to get inspo for your video projects:
+
+1/ 
+2/ 
+3/ 
+4/ 
+
+comment if im missing any good ones!
+
+---
+
+.@cofia_ai creates AI automations that write themselves.
+
+They learn how you work, and proactively deploy tailor-made automations without you ever writing a prompt, coding, or building a workflow.
+
+Congrats on the launch, @paomartcard and @_moseswayne!
+
+---
+
+After setting up my automated reel flow
+This I saw as an opportunity 
+
+3) content-as-infrastructure.
+
+automated pipelines that research, ideate, write, and schedule.
+every brand needs content. almost none have a pipeline that runs itself.
+
+---
+
+We just open-sourced Paperclip: the orchestration layer for zero-human companies
+
+It's everything you need to run an autonomous business: org charts, goal alignment, task ownership, budgets, agent templates
+
+Just run `npx paperclipai onboard`
+
+More 👇
+
+---
+
+OpenClaw can now scrape any website without getting blocked - zero bot detection, bypasses Cloudflare natively, 774x faster than BeautifulSoup.
+
+No selector maintenance. No workarounds. Just data.
+
+THIS IS AN UNFAIR ADVANTAGE AND IT'S FULLY OPEN SOURCE.
+
+---
+
+I spent 24hrs with with the fastest-growing entrepreneur I've ever met.
+
+And turned his LinkedIn into an algorithm-proof $1M asset.
+
+We built an algorithm-proof asset on LinkedIn.
+
+And I documented every step so ANYONE can copy it....
+
+Watch the full video here: 
+
+Probably my favorite strategy video so far.
+
+Enjoy...and don't forget me at the top ;)
+
+---
+
+This YC trend is exactly what I describe in the $1M/yr using Claude Memory article. 
+
+You can start for $0 and you get to keep 100% equity.
+
+The framework is called a leveraged agency. 
+
+Here's how it works, step by step, so you can do it. 
+
+1. Pick a specific niche and do the work manually. (services)
+
+2. Document everything as you go. Turn chaos into SOPs
+
+3. Start automating the repeatable parts with AI.
+
+4. Shift from "done for you" to "done with you." You have the systems now, train your client's teams on how to use them. (serve more customers at a lower price, but high margin) 
+
+5. Productize into self-serve software Take everything you automated in Steps 3-4 and wrap it in a UI, CLI, API or MCP. 
+
+6. Create content, case studies, lead magnets, workshops, to bring in more customers. Lather, Rinse, Repeat. 
+
+Sell manually, learn the problem deeply, document it, automate it, productize it, then scale it.
+
+I coined leveraged agency in 2023 after I had my agency get acquired for double the industry multiple because of these systems. 
+
+It's even more valuable in the land of AI. 
+
+You get paid to learn the problem, build your audience, build your product, and build your customers. 
+
+You don't need startup capital or VC. Your customers is the capital. 
+
+Let the cash flow.
+
+---
+
+Someone built PrivatClaw.
+
+A 100% private, always on Al agent that runs in Telegram, Slack, Discord, or WhatsApp no setup, no API keys, no risk.
+
+It browses the web, sends emails, does outreach, automates workflows, and works 24/7 on an isolated server while you sleep.
+
+---
+
+Alpha will give you $20K equity-free before you have an idea, a team, or a company.
+
+For students and new grads who know they're meant to build something.
+
+Also on the table: up to $250K, $1M via @speedrun, or a role at a portco.
+
+Apply before Friday @
+
+---
+
+after you generate any ai video, do these 4 things before posting:
+
+add 2-3% film grain in capcut. removes that clean digital look instantly
+
+drop a light background noise layer under your voiceover. coffee shop, room tone, street ambience. ai voices sound fake because the audio is too clean
+
+export at 1080p not 4k. platform compression handles the rest and lower res actually blends better with real ugc in the feed
+
+run it through one round of compression. upload to telegram, download, reupload
+
+takes 2 extra minutes. makes a massive difference
+
+---
+
+Cursor for Slides is finally here
+Watch the first 47 seconds. Then try going back to your old deck tool
+
+Reply "Chronicle" + RT to get two months of Pro for free. Make sure you follow so I can DM you asap.
+
+---
+
+this is your sign to be the definition of extreme confidence
+
+---
+
+We gave NYC creators one prompt: 
+
+Make something personal &amp; turn it into a mini app.
+
+---
+
+Dude! This just changes everything, just imagine sending this as an initial brand identity proposal.
+
+---
+
+build startups for agents
+
+over the next 10 years, you'll have a market of billions of customers (agents) with millions of wallets that want to use your services
+
+go look at every saas tool you use. notion, slack, stripe etc
+
+now ask: "what's the version of this that's built purely for agents?"
+
+agent-native payments, agent-native communication, agent-native memory etc
+
+every single category gets rebuilt (for agents)
+
+we're entering the machine-to-machine economy and almost nobody is building for it yet.
+
+---
+
+for anyone switching, moving over, or just getting started with claude
+
+we have the most up to date and comprehensive repository to maximize your agent harness potential
+
+maintained by me and the community
+
+everything is succinctly explained in more detail in the guides below
+
+---
+
+If you’re serious about AI, follow these accounts
+
+Automation & Workflows:
+
+∙ @EXM7777 – AI agencies, n8n workflows, automation systems
+∙ @milesdeutscher – Tool alpha, workflow real-talk & frameworks
+∙ @kloss_xyz – Radical simplicity audits & complexity crushers
+∙ @vasuman – Enterprise AI ops, agent diversity & scale
+
+Agents & Engineering:
+
+∙ @karpathy – Agentic engineering, real deployments, workflow shifts
+∙ @sharbel – OpenClaw tutorials, SaaS audits, 25-min agent builds
+∙ @steipete – OpenClaw cofounder, polyagent builds
+∙ @alex_prompter – OpenClaw blueprints & Claude workflow prompts
+
+Vibe Coding & Building:
+
+∙ @alexfinn – Solo $300k ARR vibe coding & hardware stacks
+∙ @rileybrown – Vibecodeapp cofounder, vibe coding & agent takes
+∙ @meta_alchemist – Vibe coding streams & AI launchpad
+
+Startups & Indie Hacking
+∙ @gregisenberg – Agent playbooks, vertical SaaS, startup ideas
+∙ @levelsio – Indie hacker OG, revenue proofs & slop caller
+∙ @BrettFromDJ – $1M one-man design studio, AI creative workflows
+
+Design & Visuals: 
+
+∙ @MengTo – Design-to-code AI workflows & prompts
+∙ @amirmushich – Brand & ad AI visuals, prompt fire
+∙ @gizakdag – Pushing AI image generation
+
+Daily Tool Drops:
+
+∙ @TheAIColony – Daily AI tools, hacks & launches
+
+Create a list, add these accounts, check it once daily, that’s how you stay updated
+
+---
+
+probably the only article you’ll ever need to start building AI agents
+
+Read this. Save it.
+
+---
+
+this Obsidian + AI is the new hot combo.
+few people know that the CEO of Obsidian @kepano has made multiples skills for Claude Code and Codex that you can use right now both for your codebase and your personal vault.
+
+---
+
+send this prompt to your OpenClaw to steal ANY writing style from books, articles, tweets, emails...
+
+---
+
+We made a moodboard that turns inspiration instantly into beautiful designs
+
+It works with just about anything: notes, sketches, images, code, urls
+
+Boards, try it today on @variantui
+
+---
+
+a read that MAY change your LIFE - its your .. its YOUR TIME
+
+---
+
+if you're waiting for seedance 2.0 to make cinematic AI videos you haven't exploited seedance 1.5 pro to the fullest.
+
+here’s the structure I used:
+👉 establish character (using nanobanana pro)
+👉 build tension (close-up)
+👉 trigger action (gesture frame)
+👉 reveal scale (wide cinematic shot using seedance 1.5)
+
+animate using first & last frame with seedance 1.5 and chain scenes together
+
+the secret isn’t the tool.
+
+it’s tension → payoff → motion continuity.
+
+---
+
+.@bubblelab_ai supercharges your ops work in Slack. Deploy Pearl in one click, connect it to tools like Notion, Jira, Stripe, and let it run tasks and automations for your team directly in Slack.
+
+Congrats on the launch, @Selinaliyy and @zhubzyz!
+
+---
+
+If you discover how to prompt, AI is a window into your mind. 
+
+Most of the time, it takes me a day or two, perhaps even longer to create a 5-15 second sequence with AI. Not because of hallucinations or glitches anymore. AI has advanced far to where it's not about catching mistakes like that and rerolling anymore.
+
+Every one of my videos was prompted and described to look exactly how it appears in my head. There are some beautiful instances where it spits out something you didn't expect, but flows with your project. That's the beauty of AI.
+
+The scene of the character in red is my friend as well. 
+AI feels like magic.
+
+---
+
+AI agencies will be the biggest wealth-building opportunity of 2026:
+
+• Can hit $50k+/month with just 5 clients
+• Only needs &lt;5 hours per week to manage
+• Margins go from 25% to 50%+ automatically
+
+Here's exactly how it works:
+
+---
+
+It's never been easier to raise capital, so what are first time founders looking for?
+
+---
+
+Here’s how to actually do the things you say you’ll do
+
+---
+
+Interesting areas for Indian startups to build in:
+
+- Senior Chronic Care
+- Premium Oils and Staples
+- Back Office Automation Agents
+- Data Labelling for Multilingual Models
+- Managed Used-Goods Marketplace
+- Industrial Inspection Drones
+- Credit Scoring for SMEs
+- Korean Skincare Brand
+- Skilling Engine for Blue Collar Workforce
+- Vertical AI focused Chip Design
+- Supply Chain Visibility
+- Energy Intelligence for Factories
+
+Incredible decade to be an entrepreneur in India
+
+---
+
+Article Summary: If you have multiple interests, do not waste the next 2-3 years
+
+(tap, hold, load in 4k)
+
+---
+
+Ok I've decided I'm gonna hire 1-2 people to vibe code stuff for me full time. 
+
+I'm still gonna do it but the opportunity is too big and I have too many ideas. Want someone young and hungry. Can start part time but i'd love it to become full time. 
+
+Hit my DMs if you are interested.
+
+---
+
+Kidding! Human made.
+
+1,649 hours were put into it.
+
+We’re hiring too. NYC based or remote.
+
+&gt; Creative Strategist
+&gt; Content Writer
+&gt; Motion Designer
+&gt; Graphic Designer
+&gt; Creative Director
+
+Apply here:
+
+---
+
+I have built the future
+
+I'm now running 3 of the most powerful AI models in the world on my desk, completely privately, for just the cost of power.
+
+3rd 512gb Mac Studio is in (Apple reached out and lent me the third one! Thanks Apple!)
+
+Here are the models I'll be running:
+
+• Kimi K2.5 (600gb across all 3 studios via EXO labs)
+• MiniMax 2.5 (120gb on one studio)
+• Qwen 3.5 (220gb on one studio)
+• GOT OSS 120B Heretic (60b on one studio- completely uncensored 😈)
+
+3 ultra powerful models coding, writing, researching, reading your posts, 24 hours a day. 7 days a week. Nonstop.
+
+Running across 4 OpenClaws on 3 Mac Studios and a Mac Mini
+
+A few use cases I have set up:
+
+• Kimi K2.5 reading feature requests for Creator Buddy and building out the feature requests autonomously. My own personal product manager
+
+• MiniMax 2.5 reading Reddit all day, looking for challenges to solve. Then building prototypes for me to review every morning. All autonomously.
+
+Qwen 3.5 hitting the X API every hour to see top trending posts in AI and vibe coding. Turning those into video scripts for me to review hourly (this has already built me one script with over 100k views on YT)
+
+Unlimited economic power just sitting there. No cloud APIs. No crazy API bills. No tech executives reading my logs. Totally customizable and private.
+
+This is the future. I'm just showing it to you before it arrives
+
+---
+
+we’re hiring 🚨 video editor · bengaluru (on-site) 📍
+
+high-growth startup. need someone who can own storytelling across short + long form. this is brand + internet culture + motion, not just basic edits.
+
+must have strong editing fundamentals, motion knowledge, premiere/after effects (or similar), sharp pacing and taste.
+
+comp: ₹20–25 LPA 💰
+
+DM your best proof of work 🏴
+
+---
+
+This is the smartest counter I’ve seen to ai taking over jobs, in the short term. 
+
+Is the ((aggregate tokens cost to do what an employee does + plus fully encumbered developer and maintenance costs ) / (fully encumbered employee cost ) )<= productivity ?
+
+If it takes 8 Claude agents, at $300 for tokens, per day, plus $200 per day in dev/maint , to do what an employee does per day, at a fully encumbered cost of $1200. 
+
+That’s 2600/1200. But then you need to factor in the productivity rate. 
+
+Is it more than 2.16 x productive ? Are there qualitative issues like morale, morality, whatever , that can’t be quantified, that need to go into the decision?
+
+What is the going forward progression of burdened costs for the tokens ?
+
+Curious what people think about this ?
+
+---
+
+Build your business around data centres in India. Solve the problems they face. Supply the components they require. You are likely to build multi million dollar business in next 5 years.
+
+I have personally visited a data centre, and the scale of opportunity is massive.
+
+---
+
+India is a video-first market. The West grew up on text (Google, blogs, docs). India grew up on YouTube, Reels, and short-form.
+
+For the next billion users, “ChatGPT” won’t look like a chat window. It will be VideoGPT.
+
+Ask a question → get a 60-sec explainer in Hindi/Tamil/Bhojpuri.
+
+Learning = visual, contextual, vernacular.
+
+Low literacy friction + cheap data + AI video infrastructure provide the tailwinds. 
+
+Who is building AI-native, query-to-video products for India?
+
+---
+
+Hiring AI filmmakers ASAP.
+
+Paid.
+
+AI video prompting &amp; AI creators (AI artists to make 20-30 seconds visual stories)
+
+Post your portfolio or example (or DM me).
+
+---
+
+Today I'm launching Interpreter.
+
+It's a desktop agent that can fill PDFs, edit your Excel and Word docs, and learn new skills.
+
+Runs offline, works with any model, and it's free.
+
+---
+
+There's an opportunity right now to build a $100k per month side hustle as a Personal AI Tutor for executives and entrepreneurs.
+
+And you don't have to be *that* technical to do it.
+
+Here's how I'd think about it:
+
+There are probably tens of thousands of senior leaders and entrepreneurs who desperately need to learn and leverage the latest AI innovations but have no idea how to do that.
+
+They aren't going to be standard buyers of the latest AI course that some online guru is selling.
+
+Maybe they've bought the course, but they probably didn't watch it or they found the material mismatched with their needs.
+
+They have the disposable income to pay $5-10k per month for a few hours of time if it's truly building high leverage skills.
+
+Probably even something they could expense through their business as personal development...
+
+It's a real, high cash-flow opportunity for someone to launch a service business as a Personal AI Tutor for those people.
+
+Probably best if it can be in person, like a real tutor, but could do it remotely quite easily these days.
+
+1-2 hours per week + 1-2 recorded video modules to continue to build skills between sessions.
+
+5-10 clients per month and you have a meaningful cash flow engine.
+
+Generate leads on X with content catering to that audience and case studies.
+
+Could offer a free 30-minute kickoff session to prove value or do a monthly webinar walk through for free and upsell into the live tutoring.
+
+All comes down to the quality of what you deliver long term, but my guess is people would see a positive ROI right away and the referral engine would drive the business.
+
+Just a thought...
+
+---
+
+how to become LIMITLESS: 
+
+- have an insane level of delusional optimism
+- be an overthinker of the best case scenario
+- follow your obsession 
+- drink yerba mate + MCT C8 oil + creatine (my daily stack)
+- work smart + hard + fast
+- eat clean and healthy
+- move daily/ start weighted calisthenics
+- sleep is key
+- find real mentors
+- write every day
+- face your fears every day
+- live at the edge
+- be up to date with new AI tools
+- enjoy memories of the future
+- meditate in nature
+- take serious breaks (no screens)
+- avoid overstimulation
+- take regular baths and use the sauna
+- vitamin D + magnesium bisglycinate
+- go on adventures, see the world
+- be a polymath 
+- improve your resilience and discipline
+- push yourself harder
+- enjoy time with your family and loved ones
+- train your focus
+- train your awareness
+- have more fun than others
+- read more biographies
+- practice deep relaxation
+- learn, learn, learn
+- be honest
+- watch great movies
+- listen to high energy music
+- be authentic
+
+---
+
+One tweet. 296K impressions. 1,300 RTs. 
+From a creator with 5000 followers. 
+
+I reverse-engineered it and 20 others like it. 
+
+Here's exactly what they all had in common:
+
+---
+
+Venice Inc. is hiring.
+
+Until now, every hire has come through someone I trust personally. This is the first open call.
+
+I have an insanely high bar.
+
+If your taste is borrowed, you’re ngmi.
+If you can’t articulate your thinking, you’re ngmi.
+If your work looks like a template with better kerning, you’re ngmi.
+
+We hire for judgment, originality, and clarity.
+
+US or EU only. Full time or fractional. DMs are open or email me at jeff@venice.inc with why we should hire you.
+
+---
+
+this is the easiest way to get your first 100 users:
+
+&gt; go to 
+&gt; drop your product url
+&gt; add keywords your ideal users care about
+&gt; it monitors reddit 24/7, finds relevant threads, and drafts authentic replies you can post
+
+---
+
+We've now spoken to 110+ founders, VCs, and operators at @offlineonair.
+
+People from Spotify, Rapido, Noise, invideo, Pixxel, xAI, Stellaris, SPC, CoinDCX, Innovaccer, OfBusiness and so many others.
+
+People launching satellites. People reshaping how a billion Indians pay, move, learn, live. People betting everything on ideas most of us can't even see yet.
+
+...and we're just getting started.
+
+Being in these conversations changes you.
+
+You start seeing patterns you missed before. You understand why someone spent three years on an idea everyone said was impossible. You hear the tremor in a founder's voice when they talk about the moment they almost gave up - and didn't.
+
+The world is moving fast. AI is collapsing the distance between imagination and reality. And we couldn't be more bullish on India’s future.
+
+Ten years from now, someone will write about this moment in Indian tech.
+
+We want to make sure it's told right - from the people actually building it.
+
+Help us tell it.
+
+We're looking for someone curious.
+Social media & AI-native.
+Someone with taste.
+
+We’re looking for someone who wakes up curious. Who wants to learn from people smarter than them. Someone who looks at what's happening in India: at the founders, the builders, the ones betting everything and feels something.
+
+Background doesn't matter. 
+Experience doesn't matter.
+
+Taste does. Intent does. Care does.
+
+If that's you — write to us.
+
+yashvi@theoffline(dot)network
+
+---
+
+AI saves me 150+ hours per year for my long form writing - 2026 was the breakthrough year:
+
+I’ve written over 500 long form pieces over the past 3 years - in the pre-AI era, each piece would take 2 hours.
+
+In 2026 - using Notion AI, Wispr Flow, ChatGPT & a few other tools - the average drafting time is down to 30-45 minutes.
+
+Here’s my Writing 3.0 framework ⤵️
+
+---
+
+this is unbelievable value for every single business owner
+
+I’ve already taken this doc, uploaded it to Claude, and got a full list of other Agents that I can build for my brands and agency
+
+I suggest you do it too
+
+---
+
+OpenAI just hired Peter (OpenClaw's founder) only 3 months after the project went live.
+
+I talk to my OpenClaw bot everyday. Here are all my practical tutorials so far:
+
+1. Set up your OpenClaw bot in 20 minutes: 
+
+2. Master OpenClaw in 30 minutes (5 real use cases + memory setup): 
+
+And of course...
+
+3. My interview with Peter Steinberger on how he uses it personally: 
+
+Coming soon:
+
+4. How @nateliason is building a business run by his OpenClaw bot
+
+📌 Watch the videos above and subscribe for more:
+
+---
+
+I'm stating the below as someone who has worked extensively at the cutting edge of AI augmented filmmaking for the past three years (part of it inside of a program at one of the big studios here LA), so I have pretty good insight into the whole process:
+
+I would argue that the most important parts of filmmaking, story and authentic design of the characters and world, will take longer than 2-3 weeks to develop for a good movie, and this is the part that filmmakers still want (and should) control.
+
+The more they put themselves into it, and the more they see AI as a powerful rendering and VFX engine (as opposed to an idea engine), the more they will differentiate their work from automated "slop".
+
+I also believe there will always be a shortage in compelling ideas, regardless of how much AI tools will reshape the process.
+Original ideas and the limits of human imagination will still be the bottleneck (which is the main reason why most of what we see people creating with these tools and call film is in fact just "slop").
+
+Regarding the speed of generation and the technical aspects, funding and new channels of distribution, I believe Schrader's prediction is pretty accurate. 
+
+What all these very opinionated critics of AI augmented filmmaking don't get, is that no filmmaker ever enjoyed the tedious (and rarely successful) process of begging for 130M USD budgets at the studios to get their films made, and then waiting for another 3 years (after finishing principal photography!) to have an army of VFX artists finish it.
+Most directors will happily skip those steps, which created nothing but friction in their pursuit of bringing their vision to life. 
+
+And with the tools evolving so rapidly, these movies will look even less CG and closer to the director's original vision than any VFX-laden Hollywood blockbuster.
+
+Imagine if Kubrick had been able to create many more of his iconic films during his lifetime.
+
+This is where we're heading towards.
+
+---
+
+You could literally:
+
+- Sign 5 clients at $5k-10k/month each
+- Use AI for 80% of fulfillment
+- Hire one VA for $2k/month to coordinate
+- Make $50k+/month profit
+- Work 5 hours per week total
+- Live off the cash flow
+
+What's stopping you?
+
+---
+
+The US government just dropped $145M to train workers in AI, semiconductors, and nuclear energy... as apprenticeships.
+
+Not college degrees. Apprenticeships. Learn while you earn.
+
+AI is officially a skilled trade now. Same category as shipbuilding and healthcare.
+
+The goal: 1 million active apprentices nationwide. Target industries: AI infrastructure, semiconductors, nuclear, defense, healthcare, IT, telecom.
+
+This is the biggest signal yet that AI jobs aren't just for Stanford grads with CS degrees. The government is building a blue-collar path into AI.
+
+The people who will deploy models, manage data centers, and run inference clusters won't all have PhDs. Some will learn on the job... funded by $145M in federal money.
+
+The AI skills gap isn't a future problem. It's a right now problem. And the government just put money behind it.
+
+---
+
+Skip the Netflix Tonight, Instead Read these Articles To Get Into 1% In Life.
+
+---
+
+People keep asking how I run a SaaS alone at 18.
+
+I have 11 AI employees.
+
+• One writes code
+• One scouts viral trends
+• One clips videos automatically
+• One emails users personally
+• One researches topics
+• One designs all my graphics
+• One generates videos
+• One creates motion graphics
+• One monitors my system 24/7
+• One drafts all my content
+• One debates strategies every night
+
+This is the one-person company era.
+
+---
+
+Made with Seedance 2.0 
+Used ~6000 token, 1 person, 2 nights, 6 hours 
+My son and daughter, my dog and a random toy on shelf. 
+
+Seedance 2.0 is amazing—prompt accuracy is excellent. Scene consistency is trickier, but definitely achievable by anyone. @minchoi @PJaccetturo @javilopen @LinusEkenstam @EHuanglu @Preda2005 @markgadala @AYi_AInotes @maxescu @azed_ai @Strength04_X @LudovicCreator @promise_ai
+
+---
+
+today's drop. 💸
+5 startups that raised this week and are hiring engineers. (50lpa +) 
+
+none of these are on any job board yet.
+
+Resolve AI · $125M Series A · AI for production ops · $1B valuation · Coinbase, DoorDash, Salesforce are customers 
+
+Simile · $100M Series A · AI that simulates human behavior · backed by Fei-Fei Li + Andrej Karpathy 
+
+Entire · $60M Seed · AI code management · founded by ex-GitHub CEO · $300M valuation 
+
+Newo · $25M Series A · AI voice agents for SMBs · 15,000+ agents deployed · revenue doubled in 2 months 
+
+Matia · $21M Series A · unified data infra · Ramp, Lemonade, Drata are customers · 10x revenue growth 
+
+combined $331M raised in the last 5 days.
+hiring engineers, product managers, designers and storytellers! dm me for warm intros and details.
+
+#hiring #startupjobs #fullstackdeveloper #hiringnow #opentowork #techjobs #techlayoffs #layoffs2026 #buildinpublic #swe #developers #engineeringjobs #ai #machinelearning #remotejobs #python #javascript #nodejs #reactjs
+
+---
+
+Are you still burning tokens on Seedance 2.0 but getting flat videos?
+
+Here's a curated Seedance 2.0 prompt collection I put together: 
+
+You'll find prompts for:
+- Japanese manga
+- Disney-style animation
+- sci-fi fiction
+- cinematic storytelling
+- game visuals
+- filmmaking techniques like ultra-wide shots
+
+More collections on my profile.
+
+---
+
+The biggest job in the next 1-5 years will be 'AI Agent Architect'.
+
+Someone who is extremely good at leveraging AI to get stuff done for specific use-cases.
+
+Some could be finance related. Others could be writing. Content creation. Video production. Storefront. Etc.
+
+The reality of AI is a 'Video Production' team will transition from 10 people, to 1 person and 10+ AI agents.
+
+That's just very obviously where we're going.
+
+So if you want to make an absolute killing in the next 5 years, start getting familiar with AI agents and how you can leverage them to do your bidding in service of others.
+
+If you do a really good job, you'll get so many customers, SO fast.
+
+Don't know how to market yourself to get there? Oh no problem just make an AI Agent that specializes in marketing and let it go to its thing for 24/7 at a quality and pace you'll never match in a thousand years.
+
+That's even to mention that your service will be just as good, if not better than the average production team.
+
+And more importantly - you'll be WAY cheaper. It'll be much more affordable, especially in the long term, to "hire" 10 agents vs 10 humans. Tokens are MUCH CHEAPER than a human's time, which is very finite.
+
+Tokens are as expensive as the cost of energy, which will plummet as uncle Elon shoots AI satellites into space.
+
+Good luck getting the same quality per price ratio with a human. It'll be literally impossible. 0 chance.
+
+The TRUE question becomes - how many people will be the 1 person companies vs the 9 that get displaced?
+
+Will the 9 just get left behind? Or will they come along?
+
+If they come along, how many? 1 in 9? 5 in 9? 9 in 9?
+
+What ratio becomes a problem for society? What will we do about it?
+
+Are we ready to have that conversation yet?
+
+---
+
+The biggest opportunity to get super loaded right now is the entertainment industry.
+
+Ai is about to bring about a creative renaissance.
+
+All the money in Hollywood, Netflix, Amazon prime, actors and IPs is about to go solely to small teams of creators. 
+
+We will see 2-3 man billion $$ IPs.
+
+Imagine Attack On Titan or the entire Hunger Games trilogy… but made by a team of 5 and they get all the money from it with almost no overhead outside marketing.
+
+Imagine if George RR was able to produce and distribute Game of Thrones with his own small in house team.
+
+9 and 10 figure pay days left and right without even having to exit.
+
+People are not quite seeing the scale of this. The next Walt Disney of AI is being born right now.
+
+---
+
+BREAKING: Claude can now do SEO like a $10,000/month agency (for free).
+
+Here are 7 insane Claude Cowork prompts that can take your biz to $100k/month : (Save for later)
+
+---
+
+Prediction: In the AI age, taste will become even more important. When anyone can make anything, the big differentiator is what you choose to make.
+
+---
+
+Seedance 2.0 is on @plotpartyai!
+
+Join to use an agentic canvas to create minute-long dramas with Seedance 2.0. 
+
+Invite code: REALITY9
+
+---
+
+seedance 2.0 is blowing up right now.
+
+video models have hit the "describe it, get it" stage and that reveals a new reality: different creators, wildly different results.
+
+learning video prompts isn't about technical hacks anymore it's creative vision, storytelling, directing, visual taste.
+
+i put together a seedance 2.0 prompt collection(13 so far, adding more as i find them): 
+
+Inspiring prompts from
+@Alin_Reaper05 @Kokoboy886711 @CoffeeVectors @birdabo @FragZero @johnAGI168 @pewdenai @aimikoda @umesh_ai @umesh_ai ♥️
+
+---
+
+70% of local businesses still don’t have proper websites.
+
+what if we use OpenClaw to:
+
+> scrape local businesses from Google Business profile 
+
+> auto-generate a clean website for each based on the info scraped earlier.
+
+> email the owner with a site preview + payment link to activate the site.
+
+100 emails daily with a 2% conversion rate
+
+$499 × 2 × 30 = $30k per month
+
+---
+
+If you're still living under a rock and don't know how to access seedance 2.0 to generate videos like this
+
+> spin up a Hongkong VPN
+> Visit doubao [dot] com
+> select image gen and make sure seedance 4.5 is selected
+
+you won't believe the next step but:
+
+> tell the image gen model to make a video and it'll start generating a video using the latest seedance 2.0
+
+---
+
+People don't fully understand why we're so excited about Seedance 2. Many assume it's because we can drop any IP character into any scene. But we've already been able to do that with plenty of models. Tools like Kling 3 can even produce technically higher quality results.
+
+That's not the real point.
+
+Not long ago, even generating a simple scene with AI was a hassle. If you're not a cinematographer, you don't even know the names of the camera moves you imagine. What's a gimbal shot, how does a boom move work, how do you set up a tracking shot, what exactly is rack focus? These aren't things the average user knows. Seedance 2 doesn't wait for you to describe all that. It understands what a scene needs and builds professional camera language, framing and transitions on its own. In many cases, it even produces better cinematic flow than what you could manually direct. That's why the outputs look so cinematic.
+
+Dialogue used to be a problem on its own. Think about AI videos so far. How many actually had natural, believable dialogue? Sound effects were another challenge, ambience design another, visual effects another. Adding all of that manually required time and technical skill. A lot of people with great ideas gave up after their first attempts because of this.
+
+Now the level has shifted. We're one step closer to professional filmmaking and the entry barrier has dropped dramatically. That's what excites us.
+
+So no, this isn't just about placing IP characters into scenes.
+
+---
+
+Introducing a new category of app:
+your daily health assistant
+Think: OpenClaw for health.
+
+Unlike other health apps,
+miora is the first health assistant that actually runs your life:
+
+1.) Books your workouts for you: integrates with ClassPass + your favorite studios so you never miss booking windows or get waitlisted again
+
+2.) Orders food for your goals: high-protein, cycle-aware meals without scrolling DoorDash
+
+3.) Adjusts everything to your body: workouts, recovery, nutrition based on your cycle + energy
+
+Why?
+Because staying healthy shouldn’t feel like a second full-time job.
+
+You shouldn’t have to plan everything.
+track everything.
+decide everything.
+Your health should just… run.
+
+👇 welcome to health on autopilot
+@getmiora
+
+---
+
+We gave @openclaw a body, some money and access to a prediction market... on losing a bet, it tries to jump off the table 😶😶 ... 🧵
+
+---
+
+Seedance 2 is already making full cinematic short films.
+
+Time is running out on Hollywood...
+
+---
+
+"AI can only copy, it doesn't create anything new"
+
+cool, now explain to me how your favorite artist works
+
+> they consume thousands of references
+> they internalize patterns
+> they blend everything into something that feels new
+
+that's creation
+
+go watch any behind-the-scenes breakdown of a Tarantino movie, every single shot is borrowed from something else
+
+go listen to any Dua Lipa song, it's samples layered on samples
+
+our brains work the same way... we don't invent from zero, we recombine at speed
+
+AI just does this faster and at a scale we physically can't match
+
+there's nothing AI does that a human can't do manually, and the opposite will be true very soon
+
+---
+
+Prompt : A realistic cinematic scene opens on a quiet Japanese countryside at dawn. Mist clings to rice paddies. A bullet train appears as a distant silver streak on the horizon. The camera launches forward at impossible speed, racing alongside the train, matching its velocity. The camera then punches through the window glass in one seamless motion and enters the cabin interior. Inside, everything is calm. A woman sits by the window, sipping tea, completely still. Steam rises slowly from her cup. The camera drifts past her face, catches the blur of the landscape reflected in her glasses, then exits through the opposite window. Outside again, the camera spirals around the full body of the train at high speed before pulling far back to reveal the train crossing a massive bridge over a turquoise river valley. End on a wide aerial shot, the train now small again, disappearing into a mountain tunnel. Silence except for a single distant horn echo.
+
+---
+
+humanity's progress is the most fascinating thing ever
+
+---
+
+If you're a designer without clients but genuinely want clients you have nobody to blame but yourself:
+
+- Check accelerator (for example, YC batch) announcements
+- Grab founder X's handles from the directory
+- Look at their brands/websites (most definitely need work)
+- Cold DM: "Congrats on W(add batch number here). Your product looks great. But branding needs a refresh (add portfolio to YC work)"
+- Price clearly: $5.5K starter price
+- Book a discovery call the same day (follow up or reply in minutes MAX, startups move fast)
+- Close in one call or move on
+- Deliver designs, then get referrals
+
+My kids could do this.
+
+---
+
+Seedance 2.0 just changed filmmaking forever
+
+People can't stop getting creative with it
+
+10 wild examples:
+
+1. "Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overboard."
+
+---
+
+Is it possible for 2 teenagers to take over a billion dollar industry?
+
+Well we’re building @clovr_dev and here’s how we’re different from current vibe-coding / vibe-design tools (@v0, @magicpatterns, @Lovable)
+
+---
+
+i will say it again, ai short series man
+
+- tiktok style
+- 1 minute episodes
+
+drama box is already doing $40M a month
+
+---
+
+We made a tool that lets you absorb the vibe of anything you point it at and apply it to your designs
+
+It's absurd and it just works
+
+Style Dropper, now available in @variantui
+
+---
+
+15+ years as a designer.
+The only fonts I'll ever need again.
+
+---
+
+I see hundreds of JDs per week, but this one is 🤯. 
+
+@Kalshi is hiring a "marketing & stunt man (or woman, or whatever)."
+
+They’re looking for a “hype person” to make sure that whenever there’s something trending, people think of Kalshi. 
+
+And the salary range is $50K-$8M (yes, you read that right).
+
+Your job will be:
+
+- Trend Riding: Capture the vibes, emerging cultural trends, memes, then insert Kalshi into the most relevant and buzzworthy moments.
+
+- Hype Creation: Launch campaigns that generate enormous attention. While you’ll have ample resources to work with, we want someone who will be scrappy and resourceful.
+
+- Stunt Ideation and Execution: Develop, plan, and execute large-scale, high-impact stunts that draw attention and create a lasting impression. Think Redbull challenge, Barbie pop-ups, Snoop Dog at the Olympics.
+
+- Social Media Savvy: Make Kalshi's social media relevant, entertaining, tasteful, and informative.
+
+Apply here 👇
+
+---
+
+About to make the biggest delusional decision of my life. 
+
+@Potentialfuel
+
+---
+
+made a page on my website featuring personal homepages of friends and folks I admire. who should I add next?
+
+---
+
+You are a Visual Builder.
+
+Made with @midjourney @suno @elevenlabsio @claudeai
+
+---
+
+Kling 3.0 Tip — CINEMATIC MULTISHOT (Narrative Scenes)
+
+With @Kling_ai 3.0's Multishot feature. We are making Short Films. These templates allow you to direct a continuous scene with 3-4 camera angles, dialogue, and emotional shifts.
+
+THE TECHNIQUE: "The 4-Shot Arc" Don't just describe a scene. Describe the cuts. Use Shot 1, Shot 2, Shot 3 labels to tell the AI exactly when to switch angles while keeping the characters consistent.
+
+N.B. ENABLE MULTISHOT OPTION ⚠️
+
+---
+
+Seedance 2.0 broke the Internet in China overnight.
+
+This is 100% AI.
+
+10 wild examples:
+
+1. We are so cooked...
+
+---
+
+@birdabo He is the man the myth the legend. He is great for first time learners along with Quincy Larson, the founder of FreeCodeCamp
+
+---
+
+is there anyone actually completing this thing and landing a job?
+
+---
+
+ready to gain an edge in prediction markets?
+
+we have some major updates
+
+the fastest and most advanced copy trading, a mobile first experience + much more
+
+read more below👇
+
+---
+
+If someone told you “too early for us,” we might agree… And still invest. $250k–$500k into early teams.
+DMs open.
+
+---
+
+Meet Elements by Hedra.
+
+You’re not prompting anymore. You’re directing.
+
+Elements gives you the building blocks like character, style, outfit and location so you can build the exact scene you need without the random guesswork.
+
+---
+
+Someone curated 925 failed VC-backed startups, broke down why they failed, and how to make it work with today’s tech - 
+
+Cool fr🙌
+
+---
+
+Spotted in a website footer. 
+
+Every site should have this.
+
+---
+
+I could have written an article on the values I am inculcating and operating with, but here are the bullet points: 
+
+- Big ambition 
+- Relentless pursuit 
+- Embracing being a generalist 
+- Tracking growth 
+- Playing the positive sum game 
+- No knowledge gatekeeping 
+- Seeking and learning ancient wisdom 
+
+That is it for now.
+
+---
+
+@pratyushrungta @earnfirstdollar Hence it is part of my recommended GTM
+
+---
+
+some of you may say this is farming
+
+it's not natural
+
+and it hurts
+
+but I'm gonna say it's just my way for networking here
+
+I've never been in reply spam for that, flagged and etc.
+
+-> don't use AI
+-> don't spam with 1-3 words
+-> avoid too many 'gm' replies
+
+that's how I do things
+
+---
+
+FR - for real
+NGL - not gonna lie
+TBH - to be honest
+IRL - in real life
+FYI - for your information
+TGE - token generation event
+VC - venture capital
+CT - crypto twitter
+CA - contract address
+DAPP - decentralized application
+LP - liquidity provider/pool
+EV - expected value
+TVL - total value locked
+MC - market cap
+DAO - decentralized autonomous organization
+2FA - two factor authentication
+RWA - real world assets
+AML - anti-money laundering
+CBDC - central bank digital currency
+CEFI - centralized finance
+EVM - ethereum virtual machine
+CEX - centralized exchange
+DCA - dollar-cost average
+DEFI - decentralized finance
+DEX - decentralized exchange
+DYOR - do your own research
+ETF - exchange traded fund
+FDV - fully diluted valuation
+FOMO - fear of missing out
+FUD - fear, uncertainty, and doubt
+GTD - guaranteed
+GWEI - gigawei
+HODL - hold on for dear life
+INFOFI - information finance
+ICO - initial coin offering
+IEO - initial exchange offering
+KYC - know your customer
+L2 - layer 2
+NFT - non-fungible token
+NFA - not financial advice
+P2P - peer-to-peer
+PND - pump and dump
+POS - proof of stake
+POW - proof of work
+STO - security token offering
+TA - technical analysis
+TL - time line
+TF - time frame
+WL - white list
+ZK - zero-knowledge
+TMI - too much information
+ICYMI - in case you missed it
+RN - right now
+IYKYK - if you know you know
+FOMO - fear of missing out
+W - win(s)
+L - loss(es)
+AF/ASF - as f*ck 
+DEPIN - decentralized private infrastructure networks
+
+You’re welcome!
+
+---
+
+we found a better way to do daniel dalen style captions
+
+---
+
+This crypto marketing wiki has been refined over the years as I learned by doing in this space.
+
+I’ll drop the link to the full Notion board in the comments.
+
+Copy it. Improve it. Make it yours. I don’t care.
+
+If it helps even a few people, that’s what matters.
+
+Note:
+
+Retweeting this because it’s still getting solid responses.
+
+Feel free to steal it. Copy it as is.
+
+---
+
+Looking to get hired in the @base ecosystem this year?
+
+Explore the Base Ecosystem Job Network at base dot hirechain dot io and discover the hottest openings across the ecosystem
+
+---
+
+i will market your vibecoded app / onchain app for free 
+
+if you are building something cool.
+
+---
+
+holy shit this might be the best guide to vibe coding from YC
+
+save it
+
+---
+
+Made a list of new Web3 Ambassador programs with 40+ programs currently live.
+
+Comment down 'Ambassador', and I will send it over to you. 👇
+
+PS: Ambassador programs are a great starting point for learning, exploring and building your initial network!
+
+---
+
+Ye subah subah slop accounts ka payout dekh ke g fat gyi h meri. Soch rha hoon ek naya account banalu, zyada kuch nhi krunga bas-
+
+-jo post accha laga TL pe usko CtrlC CtrlV.
+-har 2 hafte me vhi same playlist repeat.
+-google pe search kro ek technical word, jo resource saamne aaya pehle voh daal dunga.
+-complex posts chatgpt se likhwaunga phir comments ke replies bhi ussi se.
+-ek din macbook agle din sota hua ThinkPad.
+-insta se kuch reels aur linkedin se DO THIS IN 2026 wala ek post roz.
+-unemployed final boss jaisa din ke 500 replies krunga.
+
+Ez unworthy money - kharch karte hue sharam bhi nhi aayegi zara si aur koi profession puche toh katora leke baith jaunga saamne.
+
+---
+
+Greatest thirst traps for seed VCs - what did I miss? 🤔 
+
+> Repeat founder
+> Stealth startup
+> xx% m/m growth for last few months
+> Famous tech operator is an angel
+> Ex-famous AI lab
+> Agents, robotics, deeptech
+> $2M in ARR
+> Working 6 days a week
+> In-person, in-office (ideally SF/NY)
+
+---
+
+Here's how to make passive income through ElevenLabs:
+
+- Sign up and get on their plan that allows Professional Voice Cloning ($22/mo.) --> 
+
+- Record your voice through a mic if you have it with proper noise cancellation in the room (put extra mattress/pillows if you have to), use an iPhone's mic if that is the last option, recording reading random Wikipedia articles for an hour (one-time thing).
+
+- Add your voices, publish the voice, wait for it to get approved and apply for their payouts program (
+
+---
+
+Just came across this old video of @brian_armstrong at Coinbase YC demo day back in 2012 and there's a few key takeaways I wanted to share:
+
+1. Coachability > raw confidence
+You can immediately see how Brian absorbs feedback from @paulg without defensiveness and adjusts his framing on the spot.
+
+2. PG focuses on clarity
+Paul Graham's feedback isn't about sneaking in buzzwords or vision statements but rather clarifying Coinbase's growth trajectory, Hence's the 20% a day.
+
+3. Growth is the real pitch
+Growth metrics do most of the talking. Coinbase growing 20% a day within 5 weeks of launch and doing 65k in BTC transaction volume.
+
+---
+
+how to 10x your followers (proven) 
+
++ tweet out that you’re hiring (sales/ developers/ marketing) bonus followers if you put the salary. 
++ tweet a list (2026 web3 events/ influential people)
+
+---
+
+I'm hiring a "talent scout" 
+
+but not the "sit on LinkedIn/X all day scanning credentials" type.
+
+job to be done = produce a constant feed of interesting humans who should be on our radar. 
+
+every day may bring a new focus "persona".. 
+
+one day, you're scouting for invitees to Build ( dinners and retreats hosted with/by our vertical funds (e.g. American Dynamism, Health & Bio, Infra, Apps, Consumer, Crypto, etc)
+
+the next day, it might be scouting for a New Media Fellowship cohort, high trajectory operators/experts we can drop into a WhatsApp together, people in a specific geography ahead of an IRL event, talent profiles to invite to "talent demo days" with our portfolio companies or feature in the a16z Build newsletter (
+
+the traditional approach to talent scouting optimizes for volume + data—where they've worked, what school, which logos. that's necessary but insufficient on its own.
+
+the real test is whether you can spot someone before they're obvious. pattern-matching on trajectory, not credentials. 
+
+so, who are you?
+
+a collector of interesting humans.
+
+you thrive on being first to find breakout talent—the way some people thrive on discovering a band before they blow up.
+
+you're less "resume reviewer" .. more "human potential radar." you think in systems but don't over-index to "legibility bias." you see people for potential strengths, not lack of weakness.
+
+the work is part research rabbit-hole, part relationship cultivation, part editorial curation.
+
+you're not investing, but you're helping us build the ecosystem that will pay it forward to the next generation of great founders and operators, many of whom may go on to raise and build incredible companies.
+
+you? know them? tag or DM 🙏
+
+---
+
+Thumbnail inspiration of the day! 
+
+YouTube channel: Alastair
+Topic: Video Essays
+
+---
+
+If you want to be Based, do this: 
+
+1) Spend a good amount of sincere efforts inside the Base ecosystem. 
+
+The Base App, Zora, and the mini apps builders are shipping every week.
+
+2) Help more people get onchain the simple way. Create, post, trade, collect. Show them you don’t need capital or deep tech skills to get started.
+
+3) Back builders early and loudly. Use what they ship. Give feedback. Talk about it. Help them find their first users.
+
+4) Build your onchain presence/ footprint. 
+
+5) Stay active with intent. Not to farm checklists, but to actually participate in the Base economy.
+
+Base is one of the few ecosystems where showing up daily still matters.
+
+Plan to be there every day.
+
+---
+
+Introducing Jatevo Reddit Agent, the first x402-powered Reddit agent.
+
+We've built a Reddit agent that can crawl any subreddit, synthesize the data, and deliver deep research to you via the x402 protocol.
+
+Try it here:
+
+---
+
+Sam Altman literally explained why most startups fail in just 16 minutes.
+
+He broke down:
+
+• Product-market fit
+• Team building
+• Market selection
+• Competitive moats
+
+Here are 14 lessons worth more than a $200K MBA:
+
+1. 80% of startup success comes from one thing
+
+---
+
+Prolly The Best Introduction Launch video you will ever see on your timeline today 
+
+made by our team addxstudio... for @theoblist
+
+---
+
+what startups have emerged from the residency? check out our new directory!
+
+---
+
+YCombinator startup directory is public
+
+filter by batch, industry, stage
+
+fresh funded companies who need vendors and move fast
+
+ycombinator. com/companies
+
+"saw you came out of YC [batch] - we help early stage companies build pipeline without adding headcount"
+
+they have money and need to grow
+stop pitching bootstrapped founders counting every dollar
+
+---
+
+I still use this as a reference while cold emailing
+
+email by goated soham parekh
+
+---
+
+AI website generation is seriously getting out of hand!
+Made this website and the images in under 20 mins 
+ The prompts i used 🔻
+
+---
+
+How I would have marketed Nick Shirley’s creator coin launch on Base App and Zora:
+
+1) Multiple shoutouts from the main Base Twitter account and the Base App account.
+
+2) Retweeting or publicly acknowledging a strong, positive endorsement of the creator coin thesis to set context early.
+
+3) A coordinated thunderclap across the Base ecosystem:
+
+- All major Base-related accounts, including team members, tweeting why this launch matters and reinforcing the creator coin thesis.
+
+- Regional leads and regional communities doing the same in parallel.
+
+- Actively using regional communities on Web2 platforms to amplify the launch beyond crypto-native timelines.
+
+4) Making sure Nick’s profile is verified and that only the correct profile appears when someone searches for him on the Base App.
+
+5) Avoid talking about the price action of creator coins.
+Focus instead on why creator coins matter and what they unlock for creators and the ecosystem.
+
+---
+
+"Curiosity is compound interest for your brain"
+
+Insaneeee
+
+---
+
+this is what AUTOMATED end-to-end testing looks like ✨
+
+testing @duolingo's user flow
+
+---
+
+a16z team shared a bunch of startup ideas for 2026:
+
+---
+
+2025 wrapped
+
+- 12 months without a permanent home
+- started the project i want to spend next decade+ on
+- raised $1.6M to take it to the next level
+- 21k+ new followers, 6.5M+ views, 191k+ likes
+
+thanks for following along!
+
+---
+
+rly cool AI product for kids, got super viral naturally on tiktok and instantly sold out
+
+founders are ex YC and Anthropic
+
+---
+
+In 2014, Peter Thiel gave a 1-hour masterclass on how to build a monopoly from scratch.
+
+He broke down how:
+• Google became untouchable
+• PayPal beat the odds
+• Facebook crushed competition
+
+Here are 11 timeless lessons from his masterclass:
+
+1. Create value, then capture it
+
+---
+
+a teenager emailed Snapchat’s ceo.
+
+this is how you ask a busy executive for an opportunity.
+
+short and to the point.
+
+---
+
+I vide-coded this app to generate your innie's GitHub graph as a Lumon employee badge
+
+try it below
+
+and, apparently, your outie is out there enjoying their Christmas rn, so wish them happy holidays ☺️
+
+---
+
+WHAAAT. I love the holiday season.
+
+Cursor has free usage across all models, and Lovable is offering two months free.
+
+Perfect time to build and kick off 2026 strong.
+
+---
+
+Farcaster (@farcaster_xyz) is the best place in crypto to try new apps AND buy new tokens.
+
+It is not as popular as pumpfun, prediction markets, etc. (yet) because crypto has more traders than users, and Farcaster is not exclusively for traders. It is for people who actually want to use crypto, which is not where we are, but is hopefully where we are heading.
+
+I like using crypto, trying new apps, and buying new tokens, which is part of why Farcaster has been my most used and favorite crypto app (now like an app of apps) for 3+ years.
+
+Here is just one flow as an example from an experience I had this morning.
+
+- saw $CHAT as top trending token
+- checked its farcaster holders
+- found creator of token @beam_easy 
+- found token launch cast via @clanker_world 
+- opened associated mini app (chat)
+- created a room in chat
+- sent message in chat
+- bought some $CHAT
+- reviewed creator’s FC profile
+- reviewed connected X profile
+- bought more $CHAT
+- sending more messages in chat
+- i am now a holder and a user
+
+This only works because of the integrated wallet, social network, feed, and mini app infrastructure on Farcaster.
+
+The only time I left Farcaster was to check the token creator’s X profile, which was linked to their Farcaster account.
+
+There is nothing like this outside of Farcaster.
+
+If you are really interested in trying new things in crypto, you are doing yourself a disservice not to be on there, imo.
+
+---
+
+this guy has a way with words
+
+in 2026 I wanna step up my long form writing game
+
+---
+
+Before reading this, please know that I am a noob crypto marketer.
+
+---
+
+2025 Startup Applications Wrapped:
+
+→ Y Combinator (Rejected 3x)
+→ a16z Speedrun (Rejected)
+→ Sequoia Arc (Rejected)
+→ Techstars (Rejected)
+→ 500 Global (Rejected)
+→ NEO (Rejected)
+→ South Park Commons (Rejected)
+→ AngelPad (Rejected)
+→ OpenAI Converge (Rejected)
+→ Greylock Edge (Rejected)
+→ Antler (Rejected)
+→ Berkeley SkyDeck (Rejected)
+
+acceptance rate: 0%
+current MRR: $5,000+ and growing
+
+building anyway.
+
+---
+
+Episode 1 of everything I’ve learned in the last few years. The next 15 episodes are going to be solid value too. Completely free because why not?
+
+---
+
+you're NGMI if you don't apply to these vc funds investing in pre-seed and seed right now:
+
+- @AforeVC ($100k–$1M pre-seed)
+- @PrecursorVC ($100k–$500k pre-seed)
+- @firstround ($500k–$3M seed)
+- @pearvc ($250k–$2M pre-seed and seed)
+- Soma Capital ($100k–$500k pre-seed)
+- @southpkcommons ($400k for 7% + up to $600k follow-on)
+- Floodgate ($500k–$2M pre-seed and seed)
+- @Initialized Capital ($1M–$3M seed)
+- @2048vc ($250k–$500k pre-seed)
+- @RarebreedVC ($250k–$500k pre-seed)
+- @forumventures ($100k–$500k B2B pre-seed)
+- @AmplifyPartners ($500k–$2M pre-seed and seed)
+- @svangel ($250k–$1M seed)
+- @BoxGroup ($250k–$1M pre-seed and seed)
+- @homebrew ($500k–$1.5M seed)
+- @chapterone ($250k–$1M pre-seed and seed)
+- @basecasevc ($250k–$1M seed)
+- @uncorkcap ($500k–$2M seed)
+- @costanoavc ($500k–$3M seed)
+- @GreylockVC (SAFE note + $500k+ in credits)
+- @sequoia (scout and Arc checks starting ~$500k)
+- @a16z (scout pre-seed, $1M+ seed)
+- @lightspeedvp ($500k–$2M seed)
+- @BessemerVP (seed starting ~$500k)
+- @Global_Founders ($250k–$1M pre-seed and seed)
+- @AntlerGlobal ($100k–$250k for ~8–10%)
+- @BoostVC (up to $500k for ~15%)
+
+what else?
+
+---
+
+if you're a founder looking for some BIG money - you're ngmi if you don't know these startup acceleratiors you can apply to rn: 
+
+- @sequoia arc ($1M)
+- @openai converge ($1M equity investment)
+- @hf0 residency ($1M uncapped for 5% or $500k uncapped + 3%)
+- @speedrun by a16z ($750k–$1M for ~7–10%)
+- @southpkcommons ($400k for 7% + $600k guaranteed follow-on)
+- @neo ($600k via uncapped SAFE with $10M floor valuation)
+- @betaworks AI Camp ($500k)
+- @ycombinator ($500k for ~7%)
+- @btv_vc's The Mint ($500k for 10%)
+- @BoostVC (up to $500k for 15%)
+- @GreylockVC's Edge (SAFE note + $500k+ in credits)
+- APX (up to €500k, typically €50k for 5%)
+- @AforeVC Capital ($100k–$500k)
+- @join_ef (entrepreneurs first) ($250k for ~9%)
+- @pearvc ($250k–$2M)
+- @aigrant ($250k uncapped)
+- @AntlerGlobal ($200k–$250k for 8–9%)
+- @Techstars ($220k for ~5–7%)
+- @SkyDeck_Cal (Berkeley SkyDeck) ($200k)
+- @seedcamp (€100k–€200k for 7–7.5%)
+- @conviction embed ($150k uncapped MFN SAFE)
+- @joinodf founder fellowship ($150k for 5–10%)
+- @LAUNCH incubator ($125k for 6–7%)
+- @angelpad ($120k for 7%)
+- @500GlobalVC ($112.5k for 6%)
+- @Soma_Capital ($100k)
+- @GoogleStartups (up to $100k)
+- @StartupWiseGuys (up to €65k for equity)
+- @AlchemistAcc (equity-based, B2B focus)
+- @MassChallenge (non-dilutive up to $2M in prizes)
+- @founding (equity-based, global program)
+
+if you're funding in 2026 cash isn't the issue. picking the right people / groups to give you cash matters more
+
+these are only VCs - don't forget there are grants where they give money to you for free and fellowships (you need founder aura)
+
+bootstrapping is fine as well - software is getting cheaper, easier, and faster to build. you need cracked distribution
+
+whatever path you take to build + scale your software company go get it!
+
+---
+
+you're NGMI if you don't post on these subreddits to get your first users:
+
+r/InternetIsBeautiful (17M)
+r/Entrepreneur (4.8M)
+r/productivity (4M)
+r/business (2.5M)
+r/smallbusiness (2.2M)
+r/startups (1.8M)
+r/EntrepreneurRideAlong (593K)
+r/SideProject (430K)
+r/Business_Ideas (359K)
+r/SaaS (341K)
+r/thesidehustle (184K)
+r/ycombinator (132K)
+r/indiehackers (91K)
+r/MicroSaas (80K)
+r/GrowthHacking (77K)
+r/growmybusiness (63K)
+r/vibecoding (35K)
+r/AlphaandBetaUsers (21K)
+
+---
+
+found some more: 
+
+- Stripe Atlas partner perks (credits and discounts across tools after incorporation)
+- OpenAI startup credits (varies by program and accelerator)
+- Vercel for Startups (up to $200k in platform credits)
+- Supabase for Startups (up to $25k in credits)
+- Sentry for Startups (up to $50k credits)
+- GitHub for Startups via GitHub for Startups program (GitHub Enterprise free for 1 year)
+- GitHub Copilot for Startups (free Copilot seats for eligible teams)
+- Figma for Startups (free Professional plan for 1 year)
+- Atlassian for Startups (up to $50k credits across Jira, Confluence, etc.)
+- JetBrains for Startups (free IDE licenses for your team)
+- Brex for Startups (cash rewards, credits, and partner perks)
+- Ramp for Startups (credits and SaaS discounts via partner network)
+- Plaid for Startups (API credits and reduced fees)
+- SendGrid for Startups (email credits via partners like AWS Activate)
+- Mailgun for Startups (email sending credits)
+- Mixpanel for Startups (free Growth plan credits)
+- Amplitude for Startups (free Growth plan credits)
+- Slack for Startups (credits toward paid plans)
+- Zoom for Startups (discounted or free licenses)
+- Miro for Startups (free Team or Business plan period)
+- Canva for Startups (free Pro access)
+- Webflow for Startups (free or discounted workspace plans)
+- Auth0 for Startups (credits and free MAUs)
+- Clerk for Startups (authentication credits)
+- Pinecone for Startups (vector database credits)
+- Weaviate for Startups (cloud credits)
+- Render for Startups (platform credits)
+- Railway for Startups (monthly usage credits)
+- Neon for Startups (Postgres credits)
+- PlanetScale for Startups (database credits)
+- Stripe Climate partner credits (fee discounts when enrolled)
+- Cloudinary for Startups (media and bandwidth credits)
+- Fastly for Startups (CDN credits)
+- Snyk for Startups (free security scanning tier)
+- Loom for Startups (free Business plan period)
+- Typeform for Startups (free or discounted plans)
+
+---
+
+“What if you could walk into your token launch with complete brand clarity in just one week?”
+
+Most founders feel rushed.
+Not because the timeline is shor, but because the direction is unclear.
+
+The Sprint gives you:
+– a direction
+– a narrative
+– a consistent identity
+– a high-trust landing page
+– your launch visuals
+
+Crypto moves fast.
+Your brand should too.
+
+---
+
+mini vlog ep1 
+
+onboading my friends on the new @baseapp 
+
+"this app is like a dream" - an artist 
+
+"i love @farcaster_xyz , i love @noicedotso" - a writer. 
+
+@jessepollak @dwr @HeetTike you gotta see this.
+
+---
+
